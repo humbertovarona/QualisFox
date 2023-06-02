@@ -2,6 +2,14 @@
 
 Extensión de Firefox para determinar el Qualis de una revista científica (muestra)
 
+# Description
+
+This is an example of how to make an extension in Firefox, it searches in the header of a website if there is the name of the journal that is contained in the file database.csv
+
+This is just a sample, the list of the Qualis of all the journals can be found on the Sucupira platform:
+
+[https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf](https://sucupira.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf)
+
 # Version
 
 ![](https://img.shields.io/badge/Version%3A-1.0-success)
@@ -23,3 +31,5 @@ Extensión de Firefox para determinar el Qualis de una revista científica (mues
 <img src="https://img.icons8.com/?size=512&id=17842&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=122959&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=108792&format=png" width="50"/>
 
 # Installation
+
+
