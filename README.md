@@ -1,6 +1,6 @@
 # QualisFox
 
-Extensión de Firefox para determinar el Qualis de una revista científica (muestra)
+Firefox extension to determine the Qualis of a scientific journal (sample)
 
 # Description
 
@@ -31,5 +31,6 @@ This is just a sample, the list of the Qualis of all the journals can be found o
 <img src="https://img.icons8.com/?size=512&id=17842&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=122959&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=108792&format=png" width="50"/>
 
 # Installation
+
 
 
