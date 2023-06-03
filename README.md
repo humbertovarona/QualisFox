@@ -24,7 +24,7 @@ This is just a sample, the list of the Qualis of all the journals can be found o
 
 # Programming language
 
-<img src="https://img.icons8.com/?size=512&id=108784&format=png" width="50"/>
+<img src="https://img.icons8.com/?size=512&id=108784&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=20909&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=YjeKwnSQIBUq&format=png" width="50"/>
 
 # OS
 
