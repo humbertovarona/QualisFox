@@ -30,16 +30,3 @@ This is just a sample, the list of the Qualis of all the journals can be found o
 
 <img src="https://img.icons8.com/?size=512&id=17842&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=122959&format=png" width="50"/> <img src="https://img.icons8.com/?size=512&id=108792&format=png" width="50"/>
 
-# Installation
-
-1. Download all the files that are in:
-
-[https://github.com/humbertovarona/QualisFox/tree/main/src](https://github.com/humbertovarona/QualisFox/tree/main/src)
-
-2. Compress them in ZIP format with the name QualisFox.zip
-
-3. Rename QualisFox.zip as QualisFox.xpi
-
-4. Install it as a Firefox extension
-
-
