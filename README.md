@@ -2,14 +2,6 @@
 
 Firefox extension to determine the Qualis of a scientific journal (sample).
 
-```math
-\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)
-
-
-x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}
-```
-
-
 # Description
 
 This is an example of how to make an extension in Firefox, it searches in the header of a website if there is the name of the journal that is contained in the file database.csv
