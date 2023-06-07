@@ -3,7 +3,7 @@
 Firefox extension to determine the Qualis of a scientific journal (sample)
 
 $$
-E = mc^2
+E = mc^2; x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 $$
 
 # Description
