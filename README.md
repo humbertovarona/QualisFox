@@ -2,7 +2,10 @@
 
 Firefox extension to determine the Qualis of a scientific journal (sample).
 
-![\Large x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}](https://latex.codecogs.com/svg.latex?\Large&space;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a})
+```math
+\sqrt{3}
+```
+
 
 # Description
 
