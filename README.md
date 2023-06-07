@@ -1,6 +1,6 @@
 # QualisFox
 
-Firefox extension to determine the Qualis of a scientific journal (sample) $x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$
+Firefox extension to determine the Qualis of a scientific journal (sample) $x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$ ffg fbgfdb fb
 
 
 # Description
