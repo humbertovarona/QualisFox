@@ -2,6 +2,8 @@
 
 Firefox extension to determine the Qualis of a scientific journal (sample)
 
+$ E = mc^2$
+
 # Description
 
 This is an example of how to make an extension in Firefox, it searches in the header of a website if there is the name of the journal that is contained in the file database.csv
