@@ -1,11 +1,7 @@
 # QualisFox
 
-Firefox extension to determine the Qualis of a scientific journal (sample)
+Firefox extension to determine the Qualis of a scientific journal (sample) \(E=mc^2\)，$$x_{1,2} = \frac{-b \pm \sqrt{b^2-4ac}}{2b}.$$
 
-$$
-E = mc^2; x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a};
-\sum_{i = 1}^{n}{(\bar{x} - x_i)^2}
-$$
 
 # Description
 
