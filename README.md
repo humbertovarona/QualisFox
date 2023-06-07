@@ -2,7 +2,9 @@
 
 Firefox extension to determine the Qualis of a scientific journal (sample)
 
-$ E = mc^2$
+$$
+E = mc^2
+$$
 
 # Description
 
